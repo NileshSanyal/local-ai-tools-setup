@@ -9,8 +9,9 @@ By following below steps you will be able to set up local AI powered development
 
 If you are looking for other tutorials, feel free to refer to below guides...
 
-- 🧑‍💻 [Setup Ollama with Roo Code](README.md)
+- 🧑‍💻 [Setup Ollama with Roo Code Extension](README.md)
 - 🧑‍💻 [Setup Ollama with Continue Extension](OLLAMA-WITH-CONTINUE-SETUP.md)
+- 🧑‍💻 [Setup Opencode with Openrouter](OPENCODE-WITH-OPENROUTER-SETUP.md)
 
 # **Prerequisites**
 - ✅ A laptop or desktop with proper internet connection.
