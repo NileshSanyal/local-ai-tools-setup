@@ -13,6 +13,7 @@ If you are looking for other tutorials, feel free to refer to below guides...
 - 🧑‍💻 [Setup Ollama with Roo Code Extension](README.md)
 - 🧑‍💻 [Setup Opencode with Openrouter](OPENCODE-WITH-OPENROUTER-SETUP.md)
 - 🧑‍💻 [Setup Opencode with Graphify](OPENCODE-WITH-GRAPHIFY-SETUP.md)
+- 🧑‍💻 [Setup Opencode with Gitnexus](OPENCODE-WITH-GITNEXUS-SETUP.md)
 
 # **Prerequisites**
 - ✅ A laptop or desktop with proper internet connection.

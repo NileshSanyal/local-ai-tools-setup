@@ -17,6 +17,7 @@ If you are looking for other tutorials, feel free to refer to below guides...
 
 - 🧑‍💻 [Setup LM Studio with Roo Code Extension](LM-STUDIO-WITH-ROO-SETUP.md)
 - 🧑‍💻 [Setup Ollama with Continue Extension](OLLAMA-WITH-CONTINUE-SETUP.md)
+- 🧑‍💻 [Setup Opencode with Gitnexus](OPENCODE-WITH-GITNEXUS-SETUP.md)
 
 # **System Requirements**
 
@@ -58,7 +59,7 @@ You will see something similar as below,
 
 ![graphify-setup-2](images/graphify-setup-2.png "Graphify Setup 2")
 
-## **Running Graphify in Opencode**
+## **Running Graphify to Generate Knowledge Graph in Opencode**
 
 - Make sure to run opencode agent inside a project folder.
 
