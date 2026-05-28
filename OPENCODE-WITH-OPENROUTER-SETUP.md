@@ -12,6 +12,7 @@ If you are looking for other tutorials, feel free to refer to below guides...
 - 🧑‍💻 [Setup LM Studio with Roo Code](LM-STUDIO-WITH-ROO-SETUP.md)
 - 🧑‍💻 [Setup Ollama with Roo Code](README.md)
 - 🧑‍💻 [Setup Ollama with Continue](OLLAMA-WITH-CONTINUE-SETUP.md)
+- 🧑‍💻 [Setup Opencode with Graphify](OPENCODE-WITH-GRAPHIFY-SETUP.md)
 
 # **Prerequisites**
 - ✅ A laptop or desktop with proper internet connection.
